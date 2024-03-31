@@ -1,7 +1,7 @@
 MIN_PROXY_SCORE = 50
 
 # REGISTER PARAMETRS ONLY
-REGISTER_ACCOUNT_ONLY = True
+REGISTER_ACCOUNT_ONLY = False
 THREADS = 2  # for register account only
 
 # Put api key of ONE captcha service below
